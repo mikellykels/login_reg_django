@@ -6,4 +6,4 @@
 1. To run, open your terminal and go into the folder called `main` on the top level.
 2. Then, enter `python manage.py runserver` in your terminal to start the server up.
 3. Open your browser and go to `localhost:8000`
-4. Test it out! (using fake credentials)
+4. Test it out!
